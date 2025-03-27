@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Hesam and I'm a third year Software Engineering student at MJIIT.</h1>
 <h3 align="center">Cui bono?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drboz1&label=Profile%20views&color=0e75b6&style=flat" alt="drboz1" /> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Development**
 
